@@ -1,6 +1,6 @@
 # Binary Search Tree
 
-This project implements a binary search tree in JavaScript.
+This project implements a binary search tree in JavaScript from The Odin Project.
 
 ## Features
 
