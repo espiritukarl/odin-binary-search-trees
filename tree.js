@@ -1,7 +1,6 @@
 import { Node } from "./node.js";
-import { prettyPrint } from "./prettyPrint.js";
 
-class Tree {
+export class Tree {
     constructor(arr) {
         this.root = this.buildTree(arr)
     }
