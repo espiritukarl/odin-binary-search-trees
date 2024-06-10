@@ -1,0 +1,10 @@
+{
+    "name": "odin-binary-search-tree",
+    "type": "module",
+    "version": "1.0.0",
+    "main": "main.js",
+    "description": "Implement Binary Search Trees",
+    "scripts": {
+      "start": "node main.js"
+    }
+  }
