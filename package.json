@@ -2,9 +2,9 @@
     "name": "odin-binary-search-tree",
     "type": "module",
     "version": "1.0.0",
-    "main": "main.js",
+    "main": "driver.js",
     "description": "Implement Binary Search Trees",
     "scripts": {
-      "start": "node main.js"
+      "start": "node ./driver.js"
     }
   }
